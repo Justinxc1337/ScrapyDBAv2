@@ -1,6 +1,8 @@
 # Scrapydba
 Python Webscraping using Scrapy Framework with HTML visual. <br />
 Free to use and modify by all parties without CC. <br />
+Secondary method of same program <br />
+Made due to difference of database structure of existing network <br />
 
 # How To Run <br />
 * Install Scrapy Framework <br />
